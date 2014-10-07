@@ -25,4 +25,4 @@ It is:
 Good luck!
 
 
-![Alt text](/kazoo_popup.png "Screenshot")
+![Alt text](/design/kazoo_popup.png "Screenshot")
